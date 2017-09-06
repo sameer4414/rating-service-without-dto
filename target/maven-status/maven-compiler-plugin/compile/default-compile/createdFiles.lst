@@ -1,0 +1,10 @@
+com\ratings\food\authority\dto\Authorities.class
+com\ratings\food\establishment\dto\Establishment.class
+com\ratings\food\App.class
+com\ratings\food\establishment\dto\Establishments.class
+com\ratings\food\establishment\dto\Scores.class
+com\ratings\food\controllers\RatingsController.class
+com\ratings\food\config\RestConfig.class
+com\ratings\food\service\HeaderRequestInterceptor.class
+com\ratings\food\authority\dto\Authority.class
+com\ratings\food\service\RatingsService.class
