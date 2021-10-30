@@ -9,5 +9,9 @@ public class App {
     	SpringApplication.run(App.class, args);
         System.out.println( "Hello World 123 from ratings client!" );
     }
-    
+
+    public static void main123( String[] args ) {
+        SpringApplication.run(App.class, args);
+        System.out.println( "Hello World 123 from ratings client!" );
+    }
 }

@@ -14,7 +14,9 @@ import com.ratings.food.service.RatingsService;
 @RestController
 @RequestMapping(RatingsController.RATING_BASE_URI)
 public class RatingsController {
-	
+
+	// hum kaahaan jaayeinge kya kareinge
+
 	private static final Logger logger = LoggerFactory.getLogger(RatingsController.class);
 
 	public static final String RATING_BASE_URI = "svc/v1/ratings";
